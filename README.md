@@ -1,5 +1,5 @@
 
-# MGFR : **Overcoming False Illusions in Real-World Face Restoration with Multi-Modal Guided Diffusion Model**
+# MGFR: **Overcoming False Illusions in Real-World Face Restoration with Multi-Modal Guided Diffusion Model**
 
 Keda Tao, [Jinjin Gu*](https://www.jasongt.com/), [Yulun Zhang](http://yulunzhang.com/),  Xiucheng Wang and Nan Cheng, "Overcoming False Illusions in Real-World Face Restoration with Multi-Modal Guided Diffusion Model"
 
@@ -9,7 +9,7 @@ Keda Tao, [Jinjin Gu*](https://www.jasongt.com/), [Yulun Zhang](http://yulunzhan
 
 #### 🔥🔥🔥 News
 
-- **2025-1-22:** Our paper has been accepted by ICLR 2025!.
+- **2025-1-22:** Our paper has been accepted by ICLR 2025 (Spotlight)!.
   
 ---
 
